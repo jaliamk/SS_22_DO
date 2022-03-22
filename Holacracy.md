@@ -155,7 +155,7 @@ For this to succeed, every members has to play by the rules to fulfill this miss
 <img src="Presentation.013.png" alt="Holacracy" width="500"/>
 
 ---
-## Tactrical meeting
+## Tactical meeting
 
 - Focused on the operational work of the circles
 
